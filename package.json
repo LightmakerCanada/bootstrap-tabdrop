@@ -1,0 +1,8 @@
+{
+  "name": "@lmpm/bootstrap-tabdrop",
+  "version": "1.0.0",
+  "main": "src/js/bootstrap-tabdrop.js",
+  "repository": "https://github.com/LightmakerCanada/bootstrap-tabdrop.git",
+  "author": "Nick White <nickswhite89@gmail.com>",
+  "license": "UNLICENSED"
+}
